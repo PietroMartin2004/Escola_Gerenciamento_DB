@@ -7,7 +7,8 @@ def menu():
           \n 3 - Consultar Aluno pelo ID:
           \n 4 - Alterar Dados Cadastrais:
           \n 5 - Excluir Aluno:
-          \n 6 - Sair""")
+          \n 6 - Sair
+          \n 7- Deixa os cara mano""")
     print("############################################")
     #Declaração, valor e retorno da função opcao para inclui-lá no arquivo main.
     global opcao
